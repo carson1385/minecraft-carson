@@ -1,0 +1,12 @@
+{
+  "name": "minecraft-web",
+  "version": "1.0.0",
+  "description": "Minecraft Web Edition - 100% No Lag No Bug in Browser",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["minecraft", "webgl", "threejs", "game", "voxel"],
+  "author": "",
+  "license": "MIT"
+}
